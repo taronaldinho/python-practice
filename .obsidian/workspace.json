@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/Python仮想環境.md",
+                "file": "Python仮想環境.md",
                 "mode": "source",
                 "source": false
               },
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/Pythonの基本的な実行方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基礎レベル"
+              "title": "Pythonの基本的な実行方法"
             }
           },
           {
@@ -147,7 +147,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/Pythonの基本的な実行方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "基礎レベルへのバックリンク"
+              "title": "Pythonの基本的な実行方法へのバックリンク"
             }
           },
           {
@@ -194,13 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/Pythonの基本的な実行方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基礎レベルのアウトライン"
+              "title": "Pythonの基本的な実行方法のアウトライン"
             }
           },
           {
@@ -234,25 +234,31 @@
   },
   "active": "6dc152a49eb54707",
   "lastOpenFiles": [
-    "python-practice/basic/Python仮想環境.md",
+    "attachments/Pasted image 20250507152608.png",
+    "attachments/Pasted image 20250507152558.png",
+    "attachments/Pasted image 20250507152547.png",
+    "attachments/Pasted image 20250507152538.png",
+    "attachments/Pasted image 20250507152524.png",
+    "attachments/Pasted image 20250507152506.png",
+    "attachments/Pasted image 20250507152452.png",
+    "attachments/Pasted image 20250507152419.png",
+    "attachments/Pasted image 20250507152330.png",
+    "attachments/Pasted image 20250507152250.png",
+    "attachments/Pasted image 20250507152226.png",
     "python-practice/basic/基礎レベル.md",
-    "Pythonの予約語.md",
-    "python-practice/basic/Python基礎文法まとめ.md",
-    "python-practice/basic/Python基礎文法.md",
-    "python-practice/basic/プログラミング言語Pythonの紹介.md",
-    "python-practice/basic/Python組み込みの関数.md",
     "python-practice/basic/Python組み込み型.md",
-    "python-practice/basic/Pythonの基本的な実行方法.md",
-    "README.md",
+    "python-practice/basic/Python基礎文法まとめ.md",
+    "Python仮想環境.md",
     "python-practice/basic/PythonをWindowsPCにインストールする.md",
+    "python-practice/basic/プログラミング言語Pythonの紹介.md",
+    "python-practice/basic/Pythonの基本的な実行方法.md",
+    "python-practice/basic/Python組み込みの関数.md",
+    "Pythonの予約語.md",
+    "python-practice/basic/Python基礎文法.md",
+    "README.md",
     "python-practice/basic/Python Launcher.md",
     "Pythonの組み込みの関数名や定数名.md",
     "python-practice/basic/PythonをWindows.md",
-    "python-practice/basic/PythonをローカルのWindows.md",
-    "attachments/Pasted image 20250507121317.png",
-    "attachments/Pasted image 20250507121250.png",
-    "Pasted image 20250507121216.png",
-    "Pasted image 20250507121132.png",
-    "attachments/Pasted image 20250507121003.png"
+    "python-practice/basic/PythonをローカルのWindows.md"
   ]
 }

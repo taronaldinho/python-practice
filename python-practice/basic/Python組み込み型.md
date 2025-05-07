@@ -1,5 +1,12 @@
 # Python組み込み型
 
+https://docs.python.org/ja/3/library/stdtypes.html
+        - それぞれ何を表現しているのか、何ができるのか
+        - `bool` `int` `float`
+        - `tuple` `list` `dict` `set` `str`
+            - [[Pythonスライス|スライス]]
+            - [[Python文字列処理|文字列処理]]
+
 ## この資料の目的
 
 
