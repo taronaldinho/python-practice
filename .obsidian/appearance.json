@@ -1,6 +1,6 @@
 {
   "cssTheme": "GitHub Theme",
   "interfaceFontFamily": "Meiryo UI",
-  "textFontFamily": "",
-  "monospaceFontFamily": "Consolas"
+  "textFontFamily": "メイリオ",
+  "monospaceFontFamily": "Monaspace"
 }
