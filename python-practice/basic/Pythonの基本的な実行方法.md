@@ -9,7 +9,7 @@ Windows PCにインストールしたPythonで処理を実行できる。
 
 ## 前提
 
-[[PythonをWindows PCにインストールする|PythonをWindows PCにインストールする]] の手順に従ってPythonをインストールしているPCを使うこと。
+[PythonをWindows PCにインストールする](PythonをWindowsPCにインストールする) の手順に従ってPythonをインストールしているPCを使うこと。
 
 ## インストールしたPythonでHello World!
 

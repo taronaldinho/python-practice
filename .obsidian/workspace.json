@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/基礎コース.md",
+                "file": "python-practice/basic/基礎レベル.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基礎コース"
+              "title": "基礎レベル"
             }
           },
           {
@@ -48,23 +48,8 @@
               "icon": "lucide-file",
               "title": "Pythonの予約語"
             }
-          },
-          {
-            "id": "b97e436a98858834",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "python-practice/basic/Python基礎文法まとめ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Python基礎文法まとめ"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -137,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-practice/basic/Python基礎文法まとめ.md",
+                "file": "python-practice/basic/基礎レベル.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Python基礎文法まとめへのバックリンク"
+              "title": "基礎レベルへのバックリンク"
             }
           },
           {
@@ -184,12 +169,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "python-practice/basic/基礎レベル.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "アウトライン"
+              "title": "基礎レベルのアウトライン"
             }
           },
           {
@@ -203,7 +189,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -221,17 +207,21 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "b97e436a98858834",
+  "active": "097ed9d8f3509adb",
   "lastOpenFiles": [
+    "python-practice/basic/Python組み込み型.md",
+    "python-practice/basic/基礎レベル.md",
+    "python-practice/basic/Python仮想環境.md",
+    "python-practice/basic/Pythonの基本的な実行方法.md",
     "python-practice/basic/Pythonの組み込みの関数名や定数名.md",
     "python-practice/basic/Pythonの予約語.md",
     "python-practice/basic/Python基礎文法まとめ.md",
-    "python-practice/basic/基礎コース.md",
-    "python-practice/basic/PythonをWindows PCにインストールする.md",
-    "python-practice/basic/Pythonの基本的な実行方法.md",
+    "python-practice/basic/PythonをWindowsPCにインストールする.md",
+    "python-practice/basic/PythonをWindows.md",
+    "python-practice/basic/PythonをローカルのWindows.md",
+    "README.md",
     "python-practice/basic/プログラミング言語Pythonの紹介.md",
     "attachments/Pasted image 20250507121317.png",
-    "README.md",
     "attachments/Pasted image 20250507121250.png",
     "Pasted image 20250507121216.png",
     "Pasted image 20250507121132.png",
