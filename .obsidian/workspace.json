@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/基礎コース.md",
+                "file": "python-practice/basic/PythonをWindows PCにインストールする.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基礎コース"
+              "title": "PythonをWindows PCにインストールする"
             }
           }
         ]
@@ -225,8 +225,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "dfb3fb677aff9ea7",
+  "active": "209a2a0a87fee1d3",
   "lastOpenFiles": [
+    "python-practice/basic/基礎コース.md",
     "README.md",
     "[基礎コース](python-practice/basic/基礎コース.md.md",
     "[基礎コース](python-practice/basic",
@@ -236,7 +237,6 @@
     "attachments/Pasted image 20250507113744.png",
     "attachments/Pasted image 20250507113722.png",
     "attachments/Pasted image 20250507113650.png",
-    "python-practice/basic/基礎コース.md",
     "attachments/Pasted image 20250507113416.png",
     "notes/Python/紹介資料",
     "notes/Python",
