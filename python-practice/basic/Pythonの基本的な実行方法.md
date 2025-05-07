@@ -83,9 +83,10 @@ Pythonでは四則演算の演算子として、
 
 ![](../../attachments/Pasted%20image%2020250507152524.png)
 
-1行目に `print("Hello World from Python Script!")` と入力し、上書き保存する。
+1行目に `print("Hello World!")`
+2行目に `print("from Python Script!")` と入力し、上書き保存する。
 
-![](../../attachments/Pasted%20image%2020250507152538.png)
+![](../../attachments/Pasted%20image%2020250507155559.png)
 
 `新しいテキスト ドキュメント.txt` の名前を、`hello_world.py` に変更する。
 
@@ -98,8 +99,8 @@ Pythonでは四則演算の演算子として、
 ![](../../attachments/Pasted%20image%2020250507152558.png)
 
 「ターミナル」アプリ（または「PowerShell」）を起動する。
-シェルのプロンプト `> ` に対して、 `py` に続いて半角スペースを入力、コピーしたスクリプトファイルのパスをペーストしEnterキーを押すと、`hello_world.py` に記述した内容が出力される。
+シェルのプロンプト `> ` に対して、 `py` に続いて半角スペースを入力、コピーしたスクリプトファイルのパスをペーストしEnterキーを押すと、`hello_world.py` に記述した内容が2行出力される。
 
-![](../../attachments/Pasted%20image%2020250507152608.png)
+![](../../attachments/Pasted%20image%2020250507155802.png)
 
-この例では1行のみのコードであったが、このようにしてスクリプトファイルに記述した一連の処理をまとめて実行することができる。
+このようにしてスクリプトファイルに記述した一連の（複数行の）処理をまとめて実行することができる。
