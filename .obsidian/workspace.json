@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "python-practice/basic/基礎コース.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "基礎コース"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "python-practice/basic/基礎コース.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "READMEへのバックリンク"
+              "title": "基礎コースへのバックリンク"
             }
           },
           {
@@ -180,11 +180,12 @@
   },
   "active": "79bc122572f83ebd",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250507121317.png",
+    "README.md",
     "attachments/Pasted image 20250507121250.png",
     "Pasted image 20250507121216.png",
     "Pasted image 20250507121132.png",
     "python-practice/basic/基礎コース.md",
-    "README.md",
     "attachments/Pasted image 20250507121003.png",
     "python-practice/basic/PythonをWindows PCにインストールする.md"
   ]
