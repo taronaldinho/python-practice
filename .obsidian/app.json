@@ -18,6 +18,6 @@
   "newFileFolderPath": "notes",
   "smartIndentList": true,
   "useMarkdownLinks": true,
-  "newLinkFormat": "absolute",
+  "newLinkFormat": "relative",
   "showUnsupportedFiles": true
 }
