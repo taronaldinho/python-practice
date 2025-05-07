@@ -17,7 +17,7 @@
   "newFileLocation": "current",
   "newFileFolderPath": "notes",
   "smartIndentList": true,
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "newLinkFormat": "absolute",
   "showUnsupportedFiles": true
 }
