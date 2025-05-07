@@ -2,5 +2,7 @@
   "cssTheme": "GitHub Theme",
   "interfaceFontFamily": "Meiryo UI",
   "textFontFamily": "メイリオ",
-  "monospaceFontFamily": "Monaspace"
+  "monospaceFontFamily": "Monaspace",
+  "accentColor": "#50d00b",
+  "theme": "obsidian"
 }
