@@ -7,7 +7,7 @@
 ## 最新バージョンのPythonのインストール
 
 1. [Python Releases for Windows | Python.org](https://www.python.org/downloads/windows/) から最新版（Latest）をクリックします。
-    ![](/attachments/Pasted%20image%2020250507113416.png)
+    ![](../../attachments/Pasted%20image%2020250507113416.png)
 2. `Windows installer (64-bit)` をクリックするとインストーラのダウンロードがはじまる（`ダウンロード` フォルダなどに保管される）。
     ![](../../attachments/Pasted%20image%2020250507113650.png)
 3. ダウンロードしたインストーラを実行する。
