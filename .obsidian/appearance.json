@@ -1,14 +1,1 @@
-{
-  "accentColor": "#0abd0d",
-  "interfaceFontFamily": "Meiryo UI",
-  "textFontFamily": "メイリオ",
-  "monospaceFontFamily": "Consolas,BIZ UDゴシック",
-  "translucency": false,
-  "baseFontSize": 18,
-  "cssTheme": "Things",
-  "theme": "obsidian",
-  "baseFontSizeAction": false,
-  "enabledCssSnippets": [
-    "test"
-  ]
-}
+{}

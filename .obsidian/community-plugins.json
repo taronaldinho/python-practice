@@ -1,15 +1,3 @@
 [
-  "obsidian-git",
-  "obsidian-plugin-toc",
-  "calendar",
-  "obsidian-hover-editor",
-  "obsidian-icon-folder",
-  "templater-obsidian",
-  "oz-clear-unused-images",
-  "editing-toolbar",
-  "obsidian-pandoc",
-  "table-editor-obsidian",
-  "quick-latex",
-  "obsidian-style-settings",
-  "various-complements"
+  "obsidian-git"
 ]
