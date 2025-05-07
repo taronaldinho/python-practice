@@ -174,11 +174,13 @@
       "daily-notes:今日のデイリーノートを開く": false,
       "templates:テンプレートを挿入": false,
       "command-palette:コマンドパレットを開く": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "79bc122572f83ebd",
+  "active": "140ba6514f712cfc",
   "lastOpenFiles": [
+    "attachments/Pasted image 20250507121003.png",
     "python-practice/basic/PythonをWindows PCにインストールする.md"
   ]
 }
