@@ -139,7 +139,8 @@ a = -2+3j
 >>> a = None
 >>> type(a)
 <class 'NoneType'>
->>>
+>>> a is None
+True
 ```
 
 ### `str` テキストシーケンス型（文字列型 が一般的）
@@ -155,7 +156,7 @@ a = -2+3j
 >>> a = 'single quotation'
 >>> type(a)
 <class 'str'>
->>> b = "double quotation"
+>>> b = "DOUBLE QUOTATION"
 >>> type(b)
 <class 'str'>
 >>> c = '''three consecutive single quotation'''
@@ -169,23 +170,18 @@ a = -2+3j
 >>> a[-1]
 'n'
 >>> b[0:6]
-'double'
+'DOUBLE'
 >>> c[0:5]
 'three'
 ```
 
-### `list` リスト型
 
 ```PowerShell
->>> a = ["a", "b", 3]
->>> type(a)
-<class 'list'>
->>> a[0:2]
-['a', 'b']
->>> a.append(4.0)
->>> a
-['a', 'b', 3, 4.0]
->>>
+>>> a = 'single quotation'
+>>> a.upper()
+'SINGLE QUOTATION'
+>>> b.lower()
+'double quotation'
 ```
 
 ### `tuple` タプル型
