@@ -1,0 +1,23 @@
+{
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 90
+  },
+  "attachmentFolderPath": "attachments",
+  "trashOption": "local",
+  "livePreview": true,
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "notes",
+  "smartIndentList": true,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "absolute",
+  "showUnsupportedFiles": true
+}

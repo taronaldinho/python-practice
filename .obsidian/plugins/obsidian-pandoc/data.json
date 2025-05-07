@@ -1,0 +1,15 @@
+{
+  "showCLICommands": false,
+  "addExtensionsToInternalLinks": "html",
+  "injectAppCSS": "light",
+  "injectThemeCSS": false,
+  "customCSSFile": null,
+  "displayYAMLFrontmatter": false,
+  "linkStrippingBehaviour": "text",
+  "highDPIDiagrams": true,
+  "pandoc": "C:\\Users\\yamashita.ko\\AppData\\Local\\Pandoc",
+  "pdflatex": null,
+  "outputFolder": "D:\\yamashita.ko\\desktop\\",
+  "extraArguments": "",
+  "exportFrom": "html"
+}
