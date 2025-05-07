@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/じゃんけんゲームを作ってみる.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基礎レベル"
+              "title": "じゃんけんゲームを作ってみる"
             }
           },
           {
@@ -132,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/じゃんけんゲームを作ってみる.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "基礎レベルへのバックリンク"
+              "title": "じゃんけんゲームを作ってみるへのバックリンク"
             }
           },
           {
@@ -179,13 +179,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/じゃんけんゲームを作ってみる.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基礎レベルのアウトライン"
+              "title": "じゃんけんゲームを作ってみるのアウトライン"
             }
           },
           {
@@ -219,10 +219,11 @@
   },
   "active": "4e83e885b46582b1",
   "lastOpenFiles": [
+    "python-practice/basic/基礎レベル.md",
+    "python-practice/basic/じゃんけんゲームを作ってみる.md",
     "python-practice/basic/PythonをWindowsPCにインストールする.md",
     "python-practice/basic/Pythonの基本的な実行方法.md",
     "python-practice/basic/Python対話モードの練習.md",
-    "python-practice/basic/基礎レベル.md",
     "python-practice/basic/Python組み込み型と組み込み関数.md",
     "Pythonの予約語.md",
     "python-practice/basic/Python組み込みの関数.md",
