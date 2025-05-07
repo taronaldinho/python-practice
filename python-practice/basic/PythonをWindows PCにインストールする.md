@@ -9,14 +9,14 @@
 1. [Python Releases for Windows | Python.org](https://www.python.org/downloads/windows/) から最新版（Latest）をクリックします。
     ![](../../../attachments/Pasted%20image%2020250507113416.png)
 2. `Windows installer (64-bit)` をクリックするとインストーラのダウンロードがはじまる（`ダウンロード` フォルダなどに保管される）。
-    ![[attachments/Pasted image 20240415090515.png|600]]
+    ![](../../attachments/Pasted%20image%2020250507113650.png)
 3. ダウンロードしたインストーラを実行する。
 4. `Install Now` をクリックするとインストールがはじまる。
     ※ここで下のふたつのチェックボックスはチェックを入れずに進めることにする。
-    ![[attachments/Pasted image 20250430154343.png]]
+    ![](../../attachments/Pasted%20image%2020250507113722.png)
 5. インストール作業は完了。右下の `Close` をクリックする。
     お好みで `Disable path length limit` をクリックして（本格的にPython開発をする場合はクリック推奨）、`Close` で終了です。
-    ![[attachments/Pasted image 20250430154356.png]]
+    ![](../../attachments/Pasted%20image%2020250507113744.png)
 
 ## その他のバージョンのPythonのインストール
 
@@ -33,7 +33,7 @@ Pythonの `3.12.2` と `3.11.9` というバージョンを取り上げた場合
 
 であり、メジャーまたはマイナーバージョンが異なれば複数のPythonをインストールして使い分けることができる。
 
-![[attachments/Pasted image 20241028135214.png]]
+![](../../attachments/Pasted%20image%2020250507113810.png)
 
 ※サードパーティー製のツールを使うとマイクロバージョンまで指定して使い分けることもできる。
 

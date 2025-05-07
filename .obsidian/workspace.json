@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Python/紹介資料/PythonをWindows PCにインストールする.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PythonをWindows PCにインストールする"
+              "title": "README"
             }
           }
         ]
@@ -227,9 +227,13 @@
   },
   "active": "dfb3fb677aff9ea7",
   "lastOpenFiles": [
-    "attachments/Pasted image 20250507113416.png",
+    "python-practice/basic/PythonをWindows PCにインストールする.md",
+    "attachments/Pasted image 20250507113810.png",
+    "attachments/Pasted image 20250507113744.png",
+    "attachments/Pasted image 20250507113722.png",
+    "attachments/Pasted image 20250507113650.png",
     "python-practice/basic/基礎コース.md",
-    "notes/Python/紹介資料/PythonをWindows PCにインストールする.md",
+    "attachments/Pasted image 20250507113416.png",
     "notes/Python/紹介資料",
     "notes/Python",
     "notes",
@@ -239,11 +243,6 @@
     "attachments/Pasted image 20230819092336.png",
     "attachments/Pasted image 20230819090907.png",
     "attachments/Pasted image 20230819090150.png",
-    "attachments/Pasted image 20230819090120.png",
-    "attachments/Pasted image 20230819084231.png",
-    "attachments/Pasted image 20230819084219.png",
-    "attachments/Pasted image 20230819084212.png",
-    "attachments/Pasted image 20230819084205.png",
     "python-practice/紹介資料/プログラミング言語Pythonの紹介.md",
     "python-practice/紹介資料/venv pip.md",
     "python-practice/紹介資料/Python開発環境.md",
