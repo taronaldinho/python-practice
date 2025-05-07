@@ -4,5 +4,5 @@
   "newLinkFormat": "absolute",
   "newFileLocation": "current",
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "attachments"
 }
