@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/Python組み込み型と組み込み関数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "基礎レベル"
+              "title": "Python組み込み型と組み込み関数"
+            }
+          },
+          {
+            "id": "287fc18703f6f036",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "python-practice/basic/Python制御構文.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Python制御構文"
             }
           },
           {
@@ -74,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -147,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/Python制御構文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "基礎レベルへのバックリンク"
+              "title": "Python制御構文へのバックリンク"
             }
           },
           {
@@ -194,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-practice/basic/基礎レベル.md",
+                "file": "python-practice/basic/Python制御構文.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "基礎レベルのアウトライン"
+              "title": "Python制御構文のアウトライン"
             }
           },
           {
@@ -232,12 +246,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "c740b2e315cc45e3",
+  "active": "287fc18703f6f036",
   "lastOpenFiles": [
-    "python-practice/basic/プログラミング言語Pythonの紹介.md",
     "python-practice/basic/Python組み込み型と組み込み関数.md",
-    "python-practice/basic/Python基礎文法まとめ.md",
+    "python-practice/basic/Python制御構文.md",
     "python-practice/basic/基礎レベル.md",
+    "python-practice/basic/プログラミング言語Pythonの紹介.md",
+    "python-practice/basic/Python基礎文法まとめ.md",
     "README.md",
     "Pythonの組み込みの関数名や定数名.md",
     "python-practice/basic/じゃんけんゲームを作ってみる.md",
