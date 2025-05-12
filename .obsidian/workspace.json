@@ -246,8 +246,11 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "a8719d30df2922b8",
+  "active": "140ba6514f712cfc",
   "lastOpenFiles": [
+    "uv.lock",
+    "pyproject.toml",
+    "main.py",
     "ipynb/test.py",
     "ipynb/test.ipynb",
     "ipynb",
