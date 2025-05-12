@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/Python制御構文.md",
+                "file": "python-practice/basic/Python組み込み型と組み込み関数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Python制御構文"
+              "title": "Python組み込み型と組み込み関数"
             }
           },
           {
@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "python-practice/basic/PythonをWindowsPCにインストールする.md",
+                "file": "python-practice/basic/Python基礎文法まとめ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PythonをWindowsPCにインストールする"
+              "title": "Python基礎文法まとめ"
             }
           },
           {
@@ -88,7 +88,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "python-practice/basic/Python制御構文.md",
+                "file": "python-practice/basic/Python基礎文法まとめ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Python制御構文へのバックリンク"
+              "title": "Python基礎文法まとめへのバックリンク"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "python-practice/basic/Python制御構文.md",
+                "file": "python-practice/basic/Python基礎文法まとめ.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Python制御構文のアウトライン"
+              "title": "Python基礎文法まとめのアウトライン"
             }
           },
           {
@@ -246,8 +246,13 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "287fc18703f6f036",
+  "active": "a8719d30df2922b8",
   "lastOpenFiles": [
+    "ipynb/test.py",
+    "ipynb/test.ipynb",
+    "ipynb",
+    "python-practice.code-workspace",
+    "python-practice/basic/PythonをWindowsPCにインストールする.md",
     "python-practice/basic/Python組み込み型と組み込み関数.md",
     "python-practice/basic/Python制御構文.md",
     "python-practice/basic/基礎レベル.md",
@@ -256,7 +261,6 @@
     "README.md",
     "Pythonの組み込みの関数名や定数名.md",
     "python-practice/basic/じゃんけんゲームを作ってみる.md",
-    "python-practice/basic/PythonをWindowsPCにインストールする.md",
     "python-practice/basic/Pythonの基本的な実行方法.md",
     "python-practice/basic/Python対話モードの練習.md",
     "Pythonの予約語.md",
