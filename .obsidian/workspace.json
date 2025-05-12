@@ -246,8 +246,9 @@
       "oz-clear-unused-images:Clear Unused Images": false
     }
   },
-  "active": "140ba6514f712cfc",
+  "active": "a8719d30df2922b8",
   "lastOpenFiles": [
+    "requirements.txt",
     "uv.lock",
     "pyproject.toml",
     "main.py",
