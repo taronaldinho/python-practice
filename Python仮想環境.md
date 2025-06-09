@@ -146,13 +146,13 @@ series
 
 仮想環境の有効化を終了するためには `deactivate` コマンドを実行する。
 
-![[attachments/Pasted image 20241028165209.png]]
+![](attachments/Pasted%20image%2020250609181049.png)
 
 プロンプトの `(.venv)` 部分がなくなり、仮想環境を抜けたことがわかる。
 
 試しに `py -m pip list` や `py -3.10 -m pip list`（今回の例で使用したPythonに対して）を実行し、グローバルなPython環境には `selenium` や `pandas` がインストールされていないことを確認する。
 
-![[attachments/Pasted image 20241028170742.png]]
+![](attachments/Pasted%20image%2020250609181103.png)
 
 #### 仮想環境を複製する
 
@@ -161,7 +161,7 @@ series
 有効化したら、`pip freeze > requirements.txt` と入力し実行する。
 `proj_a` フォルダに `requirements.txt` というテキストファイルが作成される。
 
-![[attachments/Pasted image 20241028173102.png]]
+![](attachments/Pasted%20image%2020250609181116.png)
 
 この `requirements.txt` を使って同じ `proj_a` と同じライブラリバージョンの仮想環境を作成することができる。
 
