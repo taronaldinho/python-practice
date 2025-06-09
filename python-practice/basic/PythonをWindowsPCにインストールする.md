@@ -38,7 +38,6 @@ Pythonの `3.12.2` と `3.11.9` というバージョンを取り上げた場合
 
 最新版以外のPythonインストーラの入手はこちらから。
 
-Download Python | Python.org
-https://www.python.org/downloads/
+[Download Python | Python.org](https://www.python.org/downloads/)
 
-Windows PCにインストールされた複数のPythonを使い分けるために、[Windows の Python ランチャ](https://docs.python.org/ja/3/using/windows.html#launcher)や [[../../Python仮想環境|仮想環境]] を利用する。
+Windows PCにインストールされた複数のPythonを使い分けるために、[Windows の Python ランチャ](https://docs.python.org/ja/3/using/windows.html#launcher)や [仮想環境](../../Python仮想環境.md) を利用する。
